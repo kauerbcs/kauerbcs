@@ -1,6 +1,8 @@
 ## Olá, sou o Kauê Rebouças!
 
-<br>
+<b>My Stacks:</b>
+
+<div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   
